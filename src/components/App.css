@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+  }
+  
+  
+  
+  .thelist {
+  width: 30%;
+  margin:auto;
+  background-color: lightblue;
+  border-radius: 5px;
+  padding: 10px;
+  list-style: none;
+  cursor: pointer;
+  }
+
+  .btn {
+    color: red
+  }
+
+  .foot {
+    margin-top: 20px;
+    
+  }
+
+  .f1 {
+    margin-right: 10px;
+  }
